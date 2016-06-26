@@ -1,0 +1,17 @@
+#header
+{
+	border-width: 1px;
+	border-style: solid;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align:center;
+	padding: 2px;
+}
+#container
+{
+	width:100%;
+}
+#mapid
+{ 
+	height: 90%; 
+}
